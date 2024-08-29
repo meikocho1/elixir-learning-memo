@@ -1,1 +1,1 @@
-# my-elixir
+# elixir-learning-memo
